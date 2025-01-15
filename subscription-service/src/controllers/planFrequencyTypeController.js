@@ -112,6 +112,12 @@ exports.getAllPlanFrequencyTypes = catchAsync(async (req, res, next) => {
 });
 
 exports.updatePlanFrequencyType = catchAsync(async (req, res, next) => {
+  // Get current plan first
+  const currentPlan = await PlanFrequencyType.findById(req.params.id);
+  if (!currentPlan) {
+    return next(new AppError("No plan frequency type found with that ID", 404));
+  }
+
   // If name is being updated, check for duplicates
   if (req.body.name) {
     const existingPlan = await PlanFrequencyType.findOne({
@@ -123,6 +129,32 @@ exports.updatePlanFrequencyType = catchAsync(async (req, res, next) => {
     if (existingPlan) {
       return next(
         new AppError("A plan frequency with this name already exists", 400)
+      );
+    }
+  }
+
+  // Validate booksCount update
+  if (req.body.booksCount !== undefined) {
+    const maxBooks = req.body.maxBooksCount || currentPlan.maxBooksCount;
+    if (req.body.booksCount > maxBooks) {
+      return next(
+        new AppError(
+          "Books count cannot be greater than maximum books count",
+          400
+        )
+      );
+    }
+  }
+
+  // Validate maxBooksCount update
+  if (req.body.maxBooksCount !== undefined) {
+    const booksCount = req.body.booksCount || currentPlan.booksCount;
+    if (req.body.maxBooksCount < booksCount) {
+      return next(
+        new AppError(
+          "Maximum books count must be greater than or equal to books count",
+          400
+        )
       );
     }
   }
@@ -140,10 +172,6 @@ exports.updatePlanFrequencyType = catchAsync(async (req, res, next) => {
       runValidators: true,
     }
   );
-
-  if (!planFrequencyType) {
-    return next(new AppError("No plan frequency type found with that ID", 404));
-  }
 
   res.status(200).json({
     status: "success",

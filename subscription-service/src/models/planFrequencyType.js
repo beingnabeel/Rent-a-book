@@ -35,7 +35,10 @@ const planFrequencyTypeSchema = new mongoose.Schema(
       min: [1, "Maximum books count must be at least 1"],
       validate: {
         validator: function (value) {
-          return value >= this.booksCount;
+          if (this.isNew) {
+            return value >= this.booksCount;
+          }
+          return true;
         },
         message:
           "Maximum books count must be greater than or equal to books count",
