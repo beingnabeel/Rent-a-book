@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const { scheduleCartCleanup } = require("./src/services/cronService");
+const deliveryPlanRoutes = require("./src/routes/deliveryPlanRoutes");
 
 process.on("uncaughtException", (err) => {
   console.log("UNCAUGHT EXCEPTION: 🔥 shutting down...", err);
@@ -35,3 +36,5 @@ process.on("unhandledRejection", (err) => {
     process.exit(1);
   }); // closing the server and exiting the process if an unhandled rejection occurs  // This will prevent the server from running indefinitely
 });
+
+app.use("/api/v1/delivery-plans", deliveryPlanRoutes);

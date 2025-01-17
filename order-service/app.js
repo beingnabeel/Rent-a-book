@@ -1,26 +1,24 @@
 const express = require("express");
 const morgan = require("morgan");
-const AppError = require("./src/utils/appError");
+const cors = require("cors");
+const orderRoutes = require("./src/routes/orderRoutes");
+const cartRoutes = require("./src/routes/cartRoutes");
+const deliveryPlanRoutes = require("./src/routes/deliveryPlanRoutes");
 const globalErrorHandler = require("./src/controllers/errorController");
-const orderRouter = require("./src/routes/orderRoutes");
-const deliveryPlanRouter = require("./src/routes/deliveryPlanRoutes");
-const cartRouter = require("./src/routes/cartRoutes");
 
 const app = express();
-if (process.env.NODE_ENV === "development") {
-  app.use(morgan("dev"));
-}
 
-app.use(express.json({ limit: "10kb" }));
+// Middleware
+app.use(morgan("dev"));
+app.use(express.json());
+app.use(cors());
 
-app.use("/api/v1/order-service/orders", orderRouter);
-app.use("/api/v1/order-service/delivery-plans", deliveryPlanRouter);
-app.use("/api/v1/order-service/carts", cartRouter);
+// Routes
+app.use("/api/v1/order-service/orders", orderRoutes);
+app.use("/api/v1/order-service/carts", cartRoutes);
+app.use("/api/v1/order-service/delivery-plans", deliveryPlanRoutes);
 
-app.all("*", (req, res, next) => {
-  next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
-});
-
+// Error handling
 app.use(globalErrorHandler);
 
 module.exports = app;
