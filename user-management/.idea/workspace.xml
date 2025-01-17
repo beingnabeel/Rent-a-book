@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15d17d41-354d-4289-92f1-2fab5981df69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../apigateway-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apigateway-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway-service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apigateway-service/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway-service/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apigateway-service/src/middleware/authMiddleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/../apigateway-service/src/middleware/authMiddleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/controllers/deliveryPlanController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/controllers/deliveryPlanController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/models/deliveryPlanModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/models/deliveryPlanModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/routes/deliveryPlanRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/routes/deliveryPlanRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/BookeinstienUserServiceDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/BookeinstienUserServiceDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/Client/SchoolClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/Client/SchoolClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/EmailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/EmailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/MobileOtpTwilioConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/MobileOtpTwilioConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/ModelMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/ModelMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/MongoAuditConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/MongoAuditConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/RestTemplateAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/RestTemplateAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/S3Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/S3Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/PermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserAddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserAddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/controller/UserProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddBulkOfUserByAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddBulkOfUserByAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddUserByAdminRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AddUserByAdminRequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AdminCreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/AdminCreateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/CurrentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/CurrentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/DefaultAddressBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/DefaultAddressBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ForgotPasswordOtpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ForgotPasswordOtpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ForgotPasswordRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ForgotPasswordRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/OtpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/OtpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/OtpVerificationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/OtpVerificationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/PermissionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/PermissionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RefreshTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RefreshTokenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ResetPasswordRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/ResetPasswordRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RoleBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RoleBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RolePermissionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/RolePermissionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/SearchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/SendOtpMobileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/SendOtpMobileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UpdateBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UpdateBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UpdatePasswordRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UpdatePasswordRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserAddressBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserAddressBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserProfilesBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserProfilesBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/UserRequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/VerifyOtpMobileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/request/VerifyOtpMobileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/AddressBodyResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/AddressBodyResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/DefaultAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/DefaultAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/FileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/FileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/ForgotPasswordResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/ForgotPasswordResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboardedProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboardedProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboardedUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboardedUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboaredUserAndProfileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/NewlyOnboaredUserAndProfileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/OtpVerificationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/OtpVerificationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PostOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PostalResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/PostalResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/ResetPasswordResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/ResetPasswordResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SchoolAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SchoolAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessAddressResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessAddressResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessPasswordResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessPasswordResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/SuccessResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAddresses.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAddresses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAndAllProfilesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAndAllProfilesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAndProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserAndProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserProfileLimitedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserProfileLimitedInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserProfileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserProfileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserWithProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserWithProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserWithProfilesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/dto/response/UserWithProfilesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/RoleEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/RoleEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/RolePermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/RolePermission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserAddressEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserAddressEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/entities/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/AddressType.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/AddressType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/TimeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/TimeFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserProfileStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserProfileStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserType.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/UserType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/enums/WeekDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/CurrentPasswordMismatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/CurrentPasswordMismatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/DuplicatePermissionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/DuplicatePermissionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ExpiredTokenException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ExpiredTokenException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ImageUploadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ImageUploadException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidInputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidInputException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidRoleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/InvalidRoleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/JwtTokenExpiredException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/JwtTokenExpiredException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/PasswordMismatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/PasswordMismatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/RequestMathodNotSupported.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/RequestMathodNotSupported.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/SchoolServiceUnavailableException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/SchoolServiceUnavailableException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UnauthorizedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UnauthorizedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UserAlreadyFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UserAlreadyFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/WriteResponseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/exception/WriteResponseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserAddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserAddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserAuthenticationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserAuthenticationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserProfileMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/mapper/UserProfileMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/CustomUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/CustomUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/PermissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/PermissionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/RolePermissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/RolePermissionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserAddressRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserAddressRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserProfileRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserProfileRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserRoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/repository/UserRoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/AuthenticateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/AuthenticateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/EmailVerificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/EmailVerificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/ForgotPasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/ForgotPasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PasswordForgotService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PasswordForgotService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/PermissionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RefreshTokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RefreshTokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/TokenCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/TokenCacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserAddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserAddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserAddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserAddressServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserRegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserRegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserRegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/service/UserRegistrationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/utils/APIFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/utils/APIFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/utils/ExcelExportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/java/Com/Bookinstein_user_service_demo/utils/ExcelExportUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management/src/test/java/Com/Bookinstein_user_service_demo/BookeinstienUserServiceDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-management/src/test/java/Com/Bookinstein_user_service_demo/BookeinstienUserServiceDemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/user-management" />
+  </component>
+  <component name="ProjectId" id="2reqBq1H0PHmDtIvyL6shLJSMu3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BookeinstienUserServiceDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bookinstein_user_service_demo.BookeinstienUserServiceDemoApplication" />
+      <module name="Bookeinstien-user-service-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bookinstein_user_service_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookeinstienUserServiceDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15d17d41-354d-4289-92f1-2fab5981df69" name="Default Changelist" comment="" />
+      <created>1736929755823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736929755823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2688" y="499" width="374" height="532" key="#com.intellij.ide.util.MemberChooser" timestamp="1737015008195">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="499" width="374" height="532" key="#com.intellij.ide.util.MemberChooser/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1737015008195" />
+    <state x="2663" y="353" width="424" height="454" key="FileChooserDialogImpl" timestamp="1736929798768">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="353" width="424" height="454" key="FileChooserDialogImpl/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1736929798768" />
+    <state width="1872" height="284" key="GridCell.Tab.0.bottom" timestamp="1736946507437">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="284" key="GridCell.Tab.0.bottom/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1736946507437" />
+    <state width="1872" height="284" key="GridCell.Tab.0.center" timestamp="1736946507437">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="284" key="GridCell.Tab.0.center/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1736946507437" />
+    <state width="1872" height="284" key="GridCell.Tab.0.left" timestamp="1736946507437">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="284" key="GridCell.Tab.0.left/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1736946507437" />
+    <state width="1872" height="284" key="GridCell.Tab.0.right" timestamp="1736946507437">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="284" key="GridCell.Tab.0.right/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1736946507437" />
+    <state x="2729" y="265" width="1024" height="815" key="SettingsEditor" timestamp="1737015393198">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2729" y="265" width="1024" height="815" key="SettingsEditor/66.32.1854.1048/1920.0.1920.1080@1920.0.1920.1080" timestamp="1737015393198" />
+  </component>
+</project>
